@@ -1,0 +1,12 @@
+./src/popupmenu.cpp
+./src/popupmenu.h
+./src/settings.cpp
+./src/settings.h
+./src/zoclock.cpp
+./src/zoclock.h
+./src/zocwidget.cpp
+./src/zocwidget.h
+./COPYING
+./README
+./zoclock.pro
+./MANIFEST
